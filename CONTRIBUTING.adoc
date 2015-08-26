@@ -3,6 +3,7 @@
 
 1) If you don't have one, create an account on www.github.com.
 
+
 2) Fork the repository on which you want to work, under your account:
     https://help.github.com/articles/fork-a-repo
 
