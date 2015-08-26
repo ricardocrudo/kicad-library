@@ -1,5 +1,4 @@
-How to Contribute to KiCad Libraries
-========================
+== How to Contribute to KiCad Libraries
 
 
 1) If you don't have one, create an account on www.github.com.
