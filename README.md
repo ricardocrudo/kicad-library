@@ -9,4 +9,7 @@ The footprint libraries are the `*.pretty` repos themselves and are used online 
 How to Contribute
 =================
 
-Please, check the [CONTRIBUTING.txt](CONTRIBUTING.txt) file.
+Please, check the [CONTRIBUTING.md](CONTRIBUTING.md) file.
+
+
+.. include:: CONTRIBUTING.md
